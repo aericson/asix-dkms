@@ -24,7 +24,7 @@ source=("http://www.asix.com.tw/FrootAttach/driver/${_pkgname}_${pkgver}_${_pkgn
 		
 md5sums=('438dd2abe58711d98db19e278b841e9a'
          'fc33b5dd739e8964a346525a1434143e'
-         '40524847ad512c940980e3f5e72686b9'
+         'e11f3a4ec0b96997eab296ba81214c94'
          '1ffd4406713f427a5bf1c4b91aedc853')
 
 package() {
